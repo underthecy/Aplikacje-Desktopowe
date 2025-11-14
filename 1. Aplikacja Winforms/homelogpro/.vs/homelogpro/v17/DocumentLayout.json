@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BT\\Aplikacje-Desktopowe\\1. Aplikacja Winforms\\homelogpro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0D566A-78D1-496B-B8CA-55A0BA160A06}|homelogpro\\homelogpro.csproj|c:\\bt\\aplikacje-desktopowe\\1. aplikacja winforms\\homelogpro\\homelogpro\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB0D566A-78D1-496B-B8CA-55A0BA160A06}|homelogpro\\homelogpro.csproj|solutionrelative:homelogpro\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0D566A-78D1-496B-B8CA-55A0BA160A06}|homelogpro\\homelogpro.csproj|c:\\bt\\aplikacje-desktopowe\\1. aplikacja winforms\\homelogpro\\homelogpro\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0D566A-78D1-496B-B8CA-55A0BA160A06}|homelogpro\\homelogpro.csproj|solutionrelative:homelogpro\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0D566A-78D1-496B-B8CA-55A0BA160A06}|homelogpro\\homelogpro.csproj|C:\\BT\\Aplikacje-Desktopowe\\1. Aplikacja Winforms\\homelogpro\\homelogpro\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB0D566A-78D1-496B-B8CA-55A0BA160A06}|homelogpro\\homelogpro.csproj|solutionrelative:homelogpro\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0D566A-78D1-496B-B8CA-55A0BA160A06}|homelogpro\\homelogpro.csproj|C:\\BT\\Aplikacje-Desktopowe\\1. Aplikacja Winforms\\homelogpro\\homelogpro\\formproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB0D566A-78D1-496B-B8CA-55A0BA160A06}|homelogpro\\homelogpro.csproj|solutionrelative:homelogpro\\formproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0D566A-78D1-496B-B8CA-55A0BA160A06}|homelogpro\\homelogpro.csproj|c:\\bt\\aplikacje-desktopowe\\1. aplikacja winforms\\homelogpro\\homelogpro\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0D566A-78D1-496B-B8CA-55A0BA160A06}|homelogpro\\homelogpro.csproj|solutionrelative:homelogpro\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0D566A-78D1-496B-B8CA-55A0BA160A06}|homelogpro\\homelogpro.csproj|c:\\bt\\aplikacje-desktopowe\\1. aplikacja winforms\\homelogpro\\homelogpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0D566A-78D1-496B-B8CA-55A0BA160A06}|homelogpro\\homelogpro.csproj|solutionrelative:homelogpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0D566A-78D1-496B-B8CA-55A0BA160A06}|homelogpro\\homelogpro.csproj|c:\\bt\\aplikacje-desktopowe\\1. aplikacja winforms\\homelogpro\\homelogpro\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0D566A-78D1-496B-B8CA-55A0BA160A06}|homelogpro\\homelogpro.csproj|solutionrelative:homelogpro\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0D566A-78D1-496B-B8CA-55A0BA160A06}|homelogpro\\homelogpro.csproj|c:\\bt\\aplikacje-desktopowe\\1. aplikacja winforms\\homelogpro\\homelogpro\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0D566A-78D1-496B-B8CA-55A0BA160A06}|homelogpro\\homelogpro.csproj|solutionrelative:homelogpro\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\BT\\Aplikacje-Desktopowe\\1. Aplikacja Winforms\\homelogpro\\homelogpro\\User.cs",
+              "RelativeDocumentMoniker": "homelogpro\\User.cs",
+              "ToolTip": "C:\\BT\\Aplikacje-Desktopowe\\1. Aplikacja Winforms\\homelogpro\\homelogpro\\User.cs",
+              "RelativeToolTip": "homelogpro\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T16:22:41.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\BT\\Aplikacje-Desktopowe\\1. Aplikacja Winforms\\homelogpro\\homelogpro\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "homelogpro\\UsersRepository.cs",
+              "ToolTip": "C:\\BT\\Aplikacje-Desktopowe\\1. Aplikacja Winforms\\homelogpro\\homelogpro\\UsersRepository.cs",
+              "RelativeToolTip": "homelogpro\\UsersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T16:14:35.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BT\\Aplikacje-Desktopowe\\1. Aplikacja Winforms\\homelogpro\\homelogpro\\Program.cs",
+              "RelativeDocumentMoniker": "homelogpro\\Program.cs",
+              "ToolTip": "C:\\BT\\Aplikacje-Desktopowe\\1. Aplikacja Winforms\\homelogpro\\homelogpro\\Program.cs",
+              "RelativeToolTip": "homelogpro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T16:03:47.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\BT\\Aplikacje-Desktopowe\\1. Aplikacja Winforms\\homelogpro\\homelogpro\\FormLogin.cs",
+              "RelativeDocumentMoniker": "homelogpro\\FormLogin.cs",
+              "ToolTip": "C:\\BT\\Aplikacje-Desktopowe\\1. Aplikacja Winforms\\homelogpro\\homelogpro\\FormLogin.cs",
+              "RelativeToolTip": "homelogpro\\FormLogin.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T16:10:00.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\BT\\Aplikacje-Desktopowe\\1. Aplikacja Winforms\\homelogpro\\homelogpro\\FormLogin.cs",
+              "RelativeDocumentMoniker": "homelogpro\\FormLogin.cs",
+              "ToolTip": "C:\\BT\\Aplikacje-Desktopowe\\1. Aplikacja Winforms\\homelogpro\\homelogpro\\FormLogin.cs [Design]",
+              "RelativeToolTip": "homelogpro\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T16:04:10.99Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormHome.cs",
+              "DocumentMoniker": "C:\\BT\\Aplikacje-Desktopowe\\1. Aplikacja Winforms\\homelogpro\\homelogpro\\FormHome.cs",
+              "RelativeDocumentMoniker": "homelogpro\\FormHome.cs",
+              "ToolTip": "C:\\BT\\Aplikacje-Desktopowe\\1. Aplikacja Winforms\\homelogpro\\homelogpro\\FormHome.cs",
+              "RelativeToolTip": "homelogpro\\FormHome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T16:04:30.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormHome.cs [Projekt]",
+              "DocumentMoniker": "C:\\BT\\Aplikacje-Desktopowe\\1. Aplikacja Winforms\\homelogpro\\homelogpro\\FormHome.cs",
+              "RelativeDocumentMoniker": "homelogpro\\FormHome.cs",
+              "ToolTip": "C:\\Users\\uczen\\source\\repos\\homelogpro\\homelogpro\\FormHome.cs [Projekt]",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\uczen\\source\\repos\\homelogpro\\homelogpro\\FormHome.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T15:50:54.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormProduct.cs [Projekt]",
+              "DocumentMoniker": "C:\\BT\\Aplikacje-Desktopowe\\1. Aplikacja Winforms\\homelogpro\\homelogpro\\FormProduct.cs",
+              "RelativeDocumentMoniker": "homelogpro\\FormProduct.cs",
+              "ToolTip": "C:\\Users\\uczen\\source\\repos\\homelogpro\\homelogpro\\FormProduct.cs [Projekt]",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\uczen\\source\\repos\\homelogpro\\homelogpro\\FormProduct.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T15:52:08.582Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
